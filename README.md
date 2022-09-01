@@ -1,2 +1,2 @@
-# JavaProjects
-A repo containing all my Java projects, combined for convenience (October 2021)
+# JavaRepos
+A repo containing all my Java repos, combined for convenience (October 2021)
